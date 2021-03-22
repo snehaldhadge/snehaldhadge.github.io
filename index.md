@@ -28,9 +28,6 @@ I am interested in developing and utilizing computational tools and machine lear
         Containerized the project using Docker.</p>
  
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
