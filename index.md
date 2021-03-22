@@ -7,15 +7,34 @@ I am interested in developing and utilizing computational tools and machine lear
 
 
 ### Projects 
+  
+ <table width="1000px" ">
+ <tr>
+   <td width="500px">
+    <h4><a href="https://4dvd.sdsu.edu/">4DVD-(4-Dimensional Visual Delivery of Big Climate Data)</a></h4>
+    <img src="images/4DVD.png?raw=true" width="500" height="300"/>
+   </td>
+   <td width="500px">
+     <p>4-Dimensional Visual Delivery of Big Climate Data, or 4DVD, is a digital technology that can quickly and easily visualize and deliver any kind of space-time data, ranging from air temperature to precipitation to wind speeds to even humidity.
+   </td>
+  </tr>
+  </table>
+  <br></br>
+ <table width="1000px" "> 
+ <tr>
+   <td width="500px">
+    <h4><a href="https://github.com/snehaldhadge/IPL_Match_Prediction_using_Docker">IPL Match Prediction</a></h4>
+    <img src="images/IPL.png?raw=true" width="500" height="300"/>
+   </td>
+   <td width="500px">
+     <p>Analyzed IPL match data for the last 10 years.
+        Performed feature engineering to generate team performance indicators.
+        Applied Random Forests, Logistic Regression and Neural Networks to predict winners.
+        Containerized the project using Docker..
+   </td>
+  </tr>
 
-[4DVD-(4-Dimensional Visual Delivery of Big Climate Data)](https://4dvd.sdsu.edu/)
-<br></br>
-<img src="images/4DVD.png?raw=true"/>
-
----
-[IPL Match Prediction](https://github.com/snehaldhadge/IPL_Match_Prediction_using_Docker)
-<br></br>
-<img src="images/IPL.png?raw=true" width="300" height="300"/>
+</table>
 
 ---
 [Project 3 Title](http://example.com/)
