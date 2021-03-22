@@ -9,11 +9,13 @@ I am interested in developing and utilizing computational tools and machine lear
 ### Projects 
 
 [4DVD-(4-Dimensional Visual Delivery of Big Climate Data)](https://4dvd.sdsu.edu/)
+<br></br>
 <img src="images/4DVD.png?raw=true"/>
 
 ---
 [IPL Match Prediction](https://github.com/snehaldhadge/IPL_Match_Prediction_using_Docker)
-<img src="images/IPL.png?raw=true"/>
+<br></br>
+<img src="images/IPL.png?raw=true" width="300" height="300"/>
 
 ---
 [Project 3 Title](http://example.com/)
