@@ -12,14 +12,14 @@ I am interested in developing and utilizing computational tools and machine lear
      
   <p>4-Dimensional Visual Delivery of Big Climate Data, or 4DVD, is a digital technology that can quickly and easily visualize and deliver any kind of space-time data, ranging from air temperature to precipitation to wind speeds to even humidity.
 
-  <br></br>
+  <br>
 <h4><a href="https://github.com/snehaldhadge/IPL_Match_Prediction_using_Docker">IPL Match Prediction</a></h4>
    <img src="images/IPL.png?raw=true" width="500" height="300"/>
   
  <p>Analyzed IPL match data for the last 10 years.
         Performed feature engineering to generate team performance indicators.
         Applied Random Forests, Logistic Regression and Neural Networks to predict winners.
-        Containerized the project using Docker.</p
+        Containerized the project using Docker.
  
 
 ---
