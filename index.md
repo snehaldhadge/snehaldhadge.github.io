@@ -8,7 +8,7 @@ I am interested in developing and utilizing computational tools and machine lear
 
 ### Projects 
   
- <table width="1000px" ">
+ <table width="1000px" style="border:hidden;">
  <tr>
    <td width="500px">
     <h4><a href="https://4dvd.sdsu.edu/">4DVD-(4-Dimensional Visual Delivery of Big Climate Data)</a></h4>
@@ -20,7 +20,7 @@ I am interested in developing and utilizing computational tools and machine lear
   </tr>
   </table>
   <br></br>
- <table width="1000px" "> 
+ <table width="1000px" style="border:hidden;"> 
  <tr>
    <td width="500px">
     <h4><a href="https://github.com/snehaldhadge/IPL_Match_Prediction_using_Docker">IPL Match Prediction</a></h4>
