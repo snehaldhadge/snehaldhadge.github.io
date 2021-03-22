@@ -36,6 +36,7 @@ I am interested in developing and utilizing computational tools and machine lear
 
 </table>
 
+
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -44,11 +45,11 @@ I am interested in developing and utilizing computational tools and machine lear
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Bank Telemarketing Analysis](https://github.com/snehaldhadge/Bank_Telemarketing_Python)
+- [Population-Genetics-Analysis](https://github.com/snehaldhadge/Population-Genetics-Analysis)
+- [Gum disease Analysis](https://github.com/snehaldhadge/Gum_Disease_Machine_learning)
+- [Sentiment Analysis using Flask](https://github.com/snehaldhadge/SentimentAnlysis_using_Flask)
+
 
 ---
 
