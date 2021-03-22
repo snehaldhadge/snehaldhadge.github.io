@@ -12,8 +12,8 @@ I am interested in developing and utilizing computational tools and machine lear
 <img src="images/4DVD.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[IPL Match Prediction](https://github.com/snehaldhadge/IPL_Match_Prediction_using_Docker)
+<img src="images/IPL.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
