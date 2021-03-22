@@ -43,7 +43,7 @@ I am interested in developing and utilizing computational tools and machine lear
 
 ---
 
-### Category Name 2
+### Additional Projects
 
 - [Bank Telemarketing Analysis](https://github.com/snehaldhadge/Bank_Telemarketing_Python)
 - [Population-Genetics-Analysis](https://github.com/snehaldhadge/Population-Genetics-Analysis)
