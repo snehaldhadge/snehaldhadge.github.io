@@ -8,8 +8,8 @@ I am interested in developing and utilizing computational tools and machine lear
 
 ### Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[4DVD-(4-Dimensional Visual Delivery of Big Climate Data)](https://4dvd.sdsu.edu/)
+<img src="images/4DVD.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
