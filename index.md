@@ -12,6 +12,10 @@ I am interested in developing and utilizing computational tools and machine lear
 <img src="images/4DVD.png?raw=true" width="500" height="300"/>
      
  <p>4-Dimensional Visual Delivery of Big Climate Data, or 4DVD, is a digital technology that can quickly and easily visualize and deliver any kind of space-time data, ranging from air temperature to precipitation to wind speeds to even humidity.</p>
+ 
+ <h4> Publication:</h4>
+ [4DVD visualization and delivery of the 20th century reanalysis data: methods and examples](https://link.springer.com/article/10.1007%2Fs00704-020-03288-z)
+     
 
   <br>
 
