@@ -46,6 +46,8 @@ I am interested in developing and utilizing computational tools and machine lear
 - [Population-Genetics-Analysis](https://github.com/snehaldhadge/Population-Genetics-Analysis)
 - [Gum disease Analysis](https://github.com/snehaldhadge/Gum_Disease_Machine_learning)
 - [Sentiment Analysis using Flask](https://github.com/snehaldhadge/SentimentAnlysis_using_Flask)
+- [Identifying an "Unknown sequence" of DNA/RNA, which happens to derive from a cornavirus genome](https://github.com/snehaldhadge/BioInformatics)
+- [Solving Roasalind Bioinformatics problems using Python](https://github.com/snehaldhadge/Rosalind_BioInformatics)
 
 
 
