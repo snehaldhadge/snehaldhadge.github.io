@@ -32,11 +32,10 @@ I am interested in developing and utilizing computational tools and machine lear
 <h4><a href="https://github.com/snehaldhadge/Rain_Project">Abandonment analysis of cross-border acquisitions and mergers</a></h4>
    <img src="https://github.com/snehaldhadge/Rain_Project/blob/main/bmi_2016.png" width="600" height="300"/>
   
- <p>Developed ETL pipelined to obtain data from serevral sources and merged them into flat file.
-    Used advanced visualization approach to gain deeper insight into the factors affecting the completion
-    of international acquisition deals.Primary aim was use visual inspection and interact with
-    data to discover unusual patterns and outliers that can highlight areas in need of more
-    investigation. </p>
+ <p>Developed ETL pipelines to obtain data from .
+          Created an ETL pipelines in Python to optimize the extraction world-wide company acquisitions data with other financial data.
+          Performed Analysis in Tableau to highlight outliers and unusual patterns affecting completion of company acquisitions. 
+ </p>
 
 ---
 
