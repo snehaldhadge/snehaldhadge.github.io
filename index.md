@@ -30,9 +30,9 @@ I am interested in developing and utilizing computational tools and machine lear
 ---
 <br>
 <h4><a href="https://github.com/snehaldhadge/Rain_Project">Abandonment analysis of cross-border acquisitions and mergers</a></h4>
-   <img src="images/bmi_2016.png?raw=true" width="600" height="300"/>
+   <img src="bmi_2016.png?raw=true" width="600" height="300"/>
   
- <p>Developed ETL pipelines to obtain data from .
+ <p>
           Created an ETL pipelines in Python to optimize the extraction world-wide company acquisitions data with other financial data.
           Performed Analysis in Tableau to highlight outliers and unusual patterns affecting completion of company acquisitions. 
  </p>
