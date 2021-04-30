@@ -7,7 +7,12 @@ I am interested in developing and utilizing computational tools and machine lear
 
 
 ### Projects 
-
+<h4><a href="https://snehalilawe.shinyapps.io/skills/">Skill Recommendation System</a></h4>
+<p>
+     Built a content-based recommendation engine (TF/IDF), that helps students identify hot skills needed to excel in their career of choice. Created ETL pipelines to aggregate job postings data for California using web scraping (Beautiful Soup) from various job portals. Skill extraction from job postings was done using Word Embedding plus CNN and Named Entity Recognition (Spacy). Missing data such as salaries was computed using KNN. The front-end visualization was developed using R/Shiny App.</p>
+     
+---
+<br>
 <h4><a href="https://4dvd.sdsu.edu/">4DVD-(4-Dimensional Visual Delivery of Big Climate Data)</a></h4>
 <img src="images/4DVD.png?raw=true" width="500" height="300"/>
      
